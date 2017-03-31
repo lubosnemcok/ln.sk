@@ -1,0 +1,78 @@
+html {
+	height: 100%;
+	background-color: lightgrey;
+}
+body {
+	height: 100%;
+	padding: 50px;
+	font-family: 'Lora', serif;
+	background-color: black;
+}
+
+h1 {
+	float: left;
+	font-weight: 700;
+}
+h3 {
+	font-weight: 700;
+}
+
+.container {
+	background-color: #72daf9;
+	padding: 0;
+	padding-bottom: 5%;
+	height: 100%;
+	border: 2px solid black;
+	border-radius: 25px;
+}
+
+.content {
+	background-color: white;
+	height: 84%;
+}
+
+div .col-lg-3 {
+	height: 84%;
+	background-color: #28d397;
+}
+
+
+#banner ul {
+	height: 20%;
+	list-style-type: none;
+	text-align: right;
+}
+
+#skills {
+	margin: auto;
+}
+
+#skills ul {
+	list-style-type: none;
+}
+
+#languages {
+	list-style-type: 
+}
+
+#banner {
+	padding: 20px;
+}
+
+footer {
+	text-align: center;
+}
+/* progress bar formatting */
+
+progress {
+	/* style rules */
+}
+progress::-webkit-progress-bar {
+	/* style rules */
+}
+progress::-webkit-progress-value {
+	/* style rules */
+}
+progress::-moz-progress-bar {
+	/* style rules */
+}
